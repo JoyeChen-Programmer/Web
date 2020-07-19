@@ -101,7 +101,7 @@ function foo() {
     console.log(name);
 }
 
-foo(); // 执行函数后，打印结果：smyhvae
+foo(); // 执行函数后，打印结果：qianguyihao
 ```
 
 上方例子中， 变量 name 被声明在函数外部，此时函数内部可以直接使用。
