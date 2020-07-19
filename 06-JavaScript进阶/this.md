@@ -18,7 +18,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
+    <meta name="viewport">
     <title>Document</title>
     <style>
         div {
